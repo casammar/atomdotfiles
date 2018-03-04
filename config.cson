@@ -1,0 +1,11 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "f751d174-01ba-c35a-3d3d-a0c383b8bec5"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  "php-cs-fixer":
+    executeOnSave: true
